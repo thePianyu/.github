@@ -10,6 +10,12 @@
 
 目前我们主要开发的项目是[片语安卓客户端](https://github.com/thePianyu/pianyu-android)
 
+# 联系我们
+
+RealLanta:lanta@pianyu.org
+
+宋多多:sduoduo@pianyu.org
+
 # To do list
 - Finish Pianyu's Android Client
 - Fix MDClub's problems
