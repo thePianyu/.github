@@ -12,9 +12,9 @@
 
 # 联系我们
 
-RealLanta:lanta@pianyu.org
+RealLanta：lanta@pianyu.org
 
-宋多多:sduoduo@pianyu.org
+宋多多：sduoduo@pianyu.org
 
 # 赞助我们
 
