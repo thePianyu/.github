@@ -16,6 +16,10 @@ RealLanta:lanta@pianyu.org
 
 宋多多:sduoduo@pianyu.org
 
+# 赞助我们
+
+爱发电：https://afdian.net/@pianyu
+
 # To do list
 - Finish Pianyu's Android Client
 - Fix MDClub's problems
