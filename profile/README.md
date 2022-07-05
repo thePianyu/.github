@@ -12,7 +12,7 @@
 
 # 联系我们
 
-RealLanta：lanta@pianyu.org
+Louis：louis@pianyu.org
 
 宋多多：sduoduo@pianyu.org
 
