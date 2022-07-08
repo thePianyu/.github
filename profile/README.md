@@ -8,7 +8,7 @@
 
 片语是一个自由的数码社区，我们正在努力为我们的社区进行优化、适配
 
-目前我们主要开发的项目是[片语安卓客户端](https://github.com/thePianyu/pianyu-android)
+目前我们主要开发的项目是[片语安卓客户端](https://github.com/thePianyu/flarum-android/)
 
 # 联系我们
 
