@@ -22,4 +22,3 @@ Louis：louis@pianyu.org
 
 # To do list
 - Finish Pianyu's Android Client
-- Fix MDClub's problems
